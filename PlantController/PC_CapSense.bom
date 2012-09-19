@@ -1,0 +1,18 @@
+Partlist exported from /Volumes/Development/__development__/Simbits/2012_IvanHenriques_JuremaII/PlantController/PC_CapSense.sch at 12-09-12 21:37
+
+Assembly variant: 
+
+Qty Value          Device         Parts                                                 
+8                  LED3MM         SENS1, SENS2, SENS3, STAT1, STAT2, STAT3, STAT4, STAT5
+1                  M04LONGPADS    JP3                                                   
+4   0.1uF          C-EUC0805K     C12, C13, C14, C15                                    
+8   1K             R-EU_M0805     R7, R8, R9, R10, R11, R12, R13, R14                   
+3   10K            R-EU_M0805     R2, R4, R6                                            
+3   10M            R-EU_M0805     R1, R3, R5                                            
+1   10uF           C-EUC0805      C1                                                    
+4   330nF          C-EUC0805K     C7, C8, C9, C10                                       
+1   IMO_20.155MV/4 IMO_20.155MV/4 CON4                                                  
+4   LTC2631-Z      LTC2631-Z      U1, U2, U3, U4                                        
+1   M08X2          M08X2          JP1                                                   
+1   M16LOCK        M16LOCK        JP2                                                   
+3   WBTOR1         WBTOR1         X1, X2, X3                                            

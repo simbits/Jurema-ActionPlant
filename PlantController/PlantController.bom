@@ -1,0 +1,53 @@
+Partlist exported from /Volumes/Development/__development__/Simbits/2012_IvanHenriques_JuremaII/PlantController/PlantController.sch at 12-09-12 19:48
+
+Assembly variant: 
+
+Controller
+
+Qty Value          Device         Parts                                 
+*1                  FUSE           F1                                                  1162740                             
+*3                  LED5MM         ON, REL!, REL2            			      1003216                     
+*1                  M04LONGPADS    JP6                                                 1668492                                   
+*4                  PINHD-1X1      JP1, JP2, JP3, JP4                                  9733302
+*1                  PINHD-1X6      POWER                                               9733337          
+*5                  PINHD-1X8      ADCH, ADCL, COMMUNICATION, PWMH, PWML               9733345
+*2                  PINHD-2X8      XIOH, XIOL                                          1756996
+*1   M08X2          M08X2          JP5                                                 1668501
+*1   M16LOCK        M16LOCK        JP7                                                 1668510
+*1   ICSP           PINHD-2X3      ICSP                                                9733574            
+*2                  WE-KI_0805_B   L1, L2                                              724-1488 (RS)              
+*2   1N4007         1N4004         D2, D3                                              1467514                          
+3   1k             R-EU_R0805     R4, R7, R8                            
+*2   10uF           C-EUC0805K     C4, C5                                              209-4042             
+*3   60             R-EU_R0805     R2, R6, R10                                         9333975                           
+2   100R           R-EU_R0805     R1, R15                               
+3   100k           R-EU_R0805     R3, R5, R9                            
+3   100nF          C-EUC0805K     C2, C6, C11                           
+*1   470uF          CPOL-EUE7.5-16 C1                                                  1165615                               
+*2   470uF          CPOL-EUF       C3, C23                                             729-6251 (RS)             
+*1   1000uF         CPOL-EUE7.5-16 C16                                                 2112865             
+*2   7812TV         7812TV         IC1, IC2                                           1652340
+*2   BS170          BS170          Q1, Q2                                             2101401
+*6   IMO_20.155MV/3 IMO_20.155MV/3 CON1, CON2, DIST1, DIST2, DIST3, DIST4  |           1761551   +   1761533
+*1   IRLZ44NPBF     IRLZ44NPBF     Q3                                                 8651418
+*1   MC7805BDTG     MC7805BDTG     U4                                                 1652336
+*2   RT314005       RT314005       K1, K2                                             1629044
+
+
+Sensor board
+
+*8                  LED3MM         SENS1, SENS2, SENS3, STAT1, STAT2, STAT3, STAT4, STAT5    1863178
+*1                  M04LONGPADS    JP3                                                       1667510  
+*1   M08X2          M08X2          JP1                                                       1668099  
+*1   M16LOCK        M16LOCK        JP2                                                       1667522                                               
+*1   IMO_20.155MV/4 IMO_20.155MV/4 CON4                                                      1761552 + 1761534
+
+4   0.1uF          C-EUC0805K     C12, C13, C14, C15                                    
+8   1K             R-EU_M0805     R7, R8, R9, R10, R11, R12, R13, R14                   
+3   10K            R-EU_M0805     R2, R4, R6                                                
+3   10M            R-EU_M0805     R1, R3, R5                                                1469858, 1887390, 1887392, 1887395
+                                                                                            1174522
+1   10uF           C-EUC0805      C1                                                    
+4   330nF          C-EUC0805K     C7, C8, C9, C10                                           1833878                                       
+4   LTC2631-Z      LTC2631-Z      U1, U2, U3, U4                                            1715120
+3   WBTOR1         WBTOR1         X1, X2, X3                                                1200146
